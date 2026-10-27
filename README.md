@@ -8,8 +8,8 @@ Full-stack software engineer based in New York, NY, currently a Software Enginee
 📫 Reach me at Lucious.lokko1@gmail.com
 
 
-
 📫 Connect With Me
+---
 LinkedIn
 
 Portfolio
