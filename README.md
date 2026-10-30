@@ -18,4 +18,3 @@ http://linkedin.com/in/lucious-lokko
 
 luciousprofolio.vercel.app 
 
-LinkedIn 
