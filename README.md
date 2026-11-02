@@ -14,7 +14,7 @@ Full-stack software engineer based in New York, NY, currently a Software Enginee
 
 📫 Connect With Me
 ---
-http://linkedin.com/in/lucious-lokko
+[LinkedIn](http://linkedin.com/in/lucious-lokko)
 
 luciousprofolio.vercel.app 
 
