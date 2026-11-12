@@ -5,8 +5,6 @@ Full-stack software engineer based in New York, NY, currently a Software Enginee
 
 📍 I am New York-based
 
-🔭 I’m currently building full-stack applications with React, Node.js, Express, and MongoDB
-
 📫 Reach me at Lucious.lokko1@gmail.com
 
 🚀 Interested in product-driven development, UI/UX, and scalable web apps
