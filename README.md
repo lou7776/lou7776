@@ -5,11 +5,11 @@ Full-stack software engineer based in New York, NY, currently a Software Enginee
 
 📍 I am New York-based
 
-📫 Reach me at Lucious.lokko1@gmail.com
-
 🚀 Interested in product-driven development, UI/UX, and scalable web apps
 
 💡 Currently exploring new ideas and client projects across the web stack
+
+📫 Reach me at Lucious.lokko1@gmail.com
 
 
 📫 Connect With Me
