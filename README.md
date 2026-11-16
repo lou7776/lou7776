@@ -1,29 +1,44 @@
-Hi, I'm Lucious Lokko 👋
+# Hi, I'm Lucious 👋
+
+Full-stack engineer at Resilient Coders in Boston.
+I build web apps from the database up.
+
 ---
 
-Full-stack software engineer based in New York, NY, currently a Software Engineering at Resilient Coders, building with the MERN stack, and freelancing on client projects.
+## 🔨 What I Build
 
-📍 I am New York-based
+I build full-stack apps that solve real security problems. My main project, **CyberShield**, scans AWS accounts for misconfigurations and shows what needs fixing.
 
-🚀 Interested in product-driven development, UI/UX, and scalable web apps
+I like projects that make an everyday task simpler, where the frontend, the server, and the data all have to work together.
 
-💡 Currently exploring new ideas and client projects across the web stack
-
-📫 Reach me at Lucious.lokko1@gmail.com
+I work across the whole stack, from the page a user sees to the Node and Express server and the database underneath it.
 
 
-📫 Connect With Me
+## 🛠️ Stack
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+## 🎓 Certifications
+
+- ✅ CompTIA Security+
+- ✅ AWS Certified Cloud Practitioner
+
+## Reach Me
+
+- 💼 **LinkedIn:** [linkedin.com/in/lucious-lokko](https://linkedin.com/in/lucious-lokko)
+- 🐙 **GitHub:** [lou7776](https://github.com/lou7776)
+
 ---
-[LinkedIn](http://linkedin.com/in/lucious-lokko)
 
-[Profolio](luciousprofolio.vercel.app)
-
-
-
-## Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+<p align="center"><em>Always learning, always building.</em></p>
